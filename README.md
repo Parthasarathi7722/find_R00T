@@ -14,7 +14,7 @@ This Python tool is designed to find and generate a CSV report of resources runn
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/eks-root-resources-finder.git
+    git clone https://github.com/Parthasarathi7722/find_R00T.git
     ```
 
 2. Navigate to the project directory:
